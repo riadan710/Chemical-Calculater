@@ -4,6 +4,17 @@ import java.util.*;
 
 public class Oxygen {
     public static void main(String[] args) {
+        String[] elmentsSymbol = {"H", "He", "Li", "Be", "B", "C", "N", "O", "F", "Ne", "Na", "Mg", "Al", "Si", "P", "S", "Cl",
+                "Ar", "K", "Ca", "Sc", "Ti", "V", "Cr", "Mn", "Fe", "Co", "Mn", "Fe", "Co", "Ni", "Cu", "Zn", "Ag", "Sn", "Ba", "Pt", "Au", "Hg", "Pb"};
+        Map<String, Integer> exceptionElements = new HashMap<>();
+        exceptionElements.put("Ag", 47); //은
+        exceptionElements.put("Sn", 50); //주석
+        exceptionElements.put("Ba", 56); //바륨
+        exceptionElements.put("Pt", 78); //백금
+        exceptionElements.put("Au", 79); //금
+        exceptionElements.put("Hg", 80); //수은
+        exceptionElements.put("Pb", 82); //납
+
         String[][] reactant = new String[][]{              // 반응물
                 {"MnO4", "-1"}, {"H", "1"}, {"Sn", "2"}
         };
