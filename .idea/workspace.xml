@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50a2ae96-b6a9-49c3-ba1c-5f76b55b46bf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/org/dimigo/oxygen/AtomInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChemicalProject/org/dimigo/oxygen/Oxidation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChemicalProject/org/dimigo/oxygen/Oxidation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChemicalProject/org/dimigo/oxygen/Oxygen.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChemicalProject/org/dimigo/oxygen/Oxygen.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/org/dimigo/oxygen/Oxidation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/dimigo/oxygen/Oxidation.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -23,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/org/dimigo/oxygen/Oxidation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="80" column="9" selection-start-line="80" selection-start-column="9" selection-end-line="80" selection-end-column="9" />
+            <state relative-caret-position="304">
+              <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -252,7 +248,7 @@
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32765958" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.49930653" visible="true" weight="0.2567376" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.49930653" visible="true" weight="0.25531915" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.39432624" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -354,8 +350,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/org/dimigo/oxygen/Oxidation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="80" column="9" selection-start-line="80" selection-start-column="9" selection-end-line="80" selection-end-column="9" />
+        <state relative-caret-position="304">
+          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
         </state>
       </provider>
     </entry>
