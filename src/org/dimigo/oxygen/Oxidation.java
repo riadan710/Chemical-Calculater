@@ -19,7 +19,7 @@ public class Oxidation {
         AtomInfo atomInfo = new AtomInfo();
 
         String[] alkali1 = new String[]{
-                "Li", "Na", "K", "Rb", "Cs", "Fr", "Uue"
+                "Li", "Na", "K", "Rb", "Cs", "Fr"
         };
         String[] alkali2 = new String[]{
                 "Be", "Mg", "Ca", "Sr", "Ba", "Ra"

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ChemicalProject.iml" filepath="$PROJECT_DIR$/ChemicalProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Oxidation Calculator.iml" filepath="$PROJECT_DIR$/Oxidation Calculator.iml" />
     </modules>
   </component>
 </project>
